@@ -1,4 +1,4 @@
-City,Square_miles,population,homeless_population_total,population_ages_18 to 24,number_of_veterans,money_spent_on_homeless_yearly(Millions)
-Seattle WA,83.78,776555,95231,324123,41302,1433
-San Francisco CA,46.87,882519,2016,11898,103.94,43125
-Hartford CT,17.95,123628,3033,196,195,1.1
+City,Square_miles,population,homeless_population_total,number_of_children_homeless,number_of_veterans_homeless,state_funding_for_homeless(Millions)
+Seattle WA,83.78,776555,11119,1089,830,160
+San Francisco CA,46.87,882519,8035,1145,608,1.75 billion
+Hartford CT,17.95,123628,487,39,18,1.1
