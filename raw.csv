@@ -1,4 +1,4 @@
-City,Square_miles,population,homeless_population_total,average_age,total_that_are_minorities,money_spent_on_homeless_yearly
+City,Square_miles,population,homeless_population_total,average_age,number_of_minorities,money_spent_on_homeless_yearly
 Seattle,8.5,4.000,95231,324123,41302,1433
 San Francisco,1051,54169,2016,11898,103.94,43125
 Palo Alto,881,5989,2930,714,136,431341
