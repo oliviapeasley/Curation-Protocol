@@ -2,3 +2,7 @@ City,Square_miles,population,homeless_population_total,number_of_children_homele
 Seattle WA,83.78,776555,11119,1089,830,160
 San Francisco CA,46.87,882519,8035,1145,608,1.75 billion
 Hartford CT,17.95,123628,487,39,18,1.1
+
+
+range(30)
+  print(i, end ="2020")
